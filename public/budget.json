@@ -1,0 +1,85 @@
+{
+    "myBudget": [
+      {
+        "title": "Eat out",
+        "budget": 25
+      },
+      {
+        "title": "Medical Expenses",
+        "budget": 50
+      },
+      {
+        "title": "Car Insurance",
+        "budget": 30
+      },
+      {
+        "title": "Shopping",
+        "budget": 100
+      },
+      {
+        "title": "Health Insurance",
+        "budget": 25
+      },
+      {
+        "title": "Rent",
+        "budget": 275
+      },
+      {
+        "title": "Grocery",
+        "budget": 110
+      },
+      {
+        "title": "Entertainment",
+        "budget": 50
+      },
+      {
+        "title": "Travel",
+        "budget": 200
+      },
+      {
+        "title": "Utilities",
+        "budget": 80
+      },
+      {
+        "title": "Phone Bill",
+        "budget": 40
+      },
+      {
+        "title": "Internet Bill",
+        "budget": 35
+      },
+      {
+        "title": "Gym Membership",
+        "budget": 30
+      },
+      {
+        "title": "Coffee",
+        "budget": 20
+      },
+      {
+        "title": "Books",
+        "budget": 40
+      },
+      {
+        "title": "Movies",
+        "budget": 30
+      },
+      {
+        "title": "Music",
+        "budget": 15
+      },
+      {
+        "title": "Gifts",
+        "budget": 50
+      },
+      {
+        "title": "Hobbies",
+        "budget": 40
+      },
+      {
+        "title": "Miscellaneous",
+        "budget": 75
+      }
+    ]
+  }
+  
