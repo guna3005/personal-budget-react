@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import Chart from "chart.js/auto";
 import axios from "axios";
 import * as d3 from "d3";
